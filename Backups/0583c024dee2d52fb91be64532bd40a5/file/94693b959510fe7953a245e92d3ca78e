@@ -1,0 +1,10 @@
+file:///root/Desktop/piann_archive/web/movieql-client/README.md
+# Movie QL
+
+Client for the MovieQL API built with Apollo
+
+
+env :
+
+yarn add react-router-dom
+yarn add apollo-boost react-apollo graphql-tag graphql
